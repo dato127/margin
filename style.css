@@ -1,0 +1,26 @@
+/*პირველი div ტეგის სელექტორი*/
+#div1 {
+    width: 320px;
+    height: 160px;
+    border: 1px solid #B4B4B4;
+    margin-top: 73px;
+    margin-left: 109px;
+/* პირველი პარაგრაფ ტეგის სელექტორი*/
+#Eminem {
+    font-size: 14px;
+    font-weight: 700;
+    padding-left: 7px;
+    height: 22px;
+    width: 320px;
+
+}
+/* მეორე პარაგრაფ ტეგის სელექტორი*/
+#Song {
+    padding-left: 6px;
+    padding-top: 20px;
+    color: #808080;
+    font-size: 14px;
+    font-weight: 400;
+    width: 280px;
+    height: 84px;
+}
